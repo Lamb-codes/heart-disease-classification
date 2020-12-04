@@ -15,7 +15,7 @@ Best model: LogisticRegression (hyperparameters tuned using GridSearchCV)
 
 Classification report:
 
-![alt text](https://github.com/Lamb-codes/heart-disease-classification/blob/main/class_report.png)
+![alt text](https://github.com/Lamb-codes/heart-disease-classification/blob/main/images/class_report.png)
 
 It's probably possible to improve it even more by trying to tune the model with more hyperparameters or by collecting more data.
 
@@ -27,7 +27,7 @@ After defyining and understanding data's features I performed some basic compari
 
 **Heart disease frequency per maximum heart rate achieved and cholestorol levels**
 
-![alt text](https://github.com/Lamb-codes/heart-disease-classification/blob/main/graph.png)
+![alt text](https://github.com/Lamb-codes/heart-disease-classification/blob/main/images/graph.png)
 
 And more
 
